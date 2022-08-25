@@ -1,4 +1,4 @@
-# TERARium-Store
+# TERArium-Store
 Creates/Bootstraps default mappings for ElasticSearch.
 
 
